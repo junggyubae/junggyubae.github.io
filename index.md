@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Junggyu Bae
+#subtitle :
+#cover-img :
 ---
 
 <br/>
