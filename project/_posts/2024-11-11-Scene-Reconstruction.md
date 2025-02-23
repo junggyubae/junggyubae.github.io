@@ -10,7 +10,11 @@ We used, Blender, 3D Gaussian Splatting, Acceleration Techniques, Ambient Occlus
 
 Here is the result:
 <video autoplay loop width="800" height="600">
-  <source src="[https://github.com/user-attachments/assets/7df708a6-447e-4f67-99f8-435ea43b1d45](https://www.youtube.com/watch?v=l5ZYK37RdLE)" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/45475056-74d1-4dca-929c-a963f945b7b3" type="video/mp4">
 </video>
+
+If the video is not playing, please visit [Youtube Link](https://www.youtube.com/watch?v=l5ZYK37RdLE)
+
+
 
 
