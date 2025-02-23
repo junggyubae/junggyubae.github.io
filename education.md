@@ -8,8 +8,8 @@ title: Education
 
 # Education
 
-### [Seoul National University](https://en.snu.ac.kr/index.html) (Mar. 2020 -)
-#### B.S. in [Electrical and Computer Engineering](https://ece.snu.ac.kr/en)
+### Seoul National University (Mar. 2020 -)
+#### B.S. in Electrical and Computer Engineering
 
 ### Gyeonggi Science High School for the Gifted (Mar. 2017 - Feb. 2020)
 
@@ -21,7 +21,7 @@ title: Education
 ### Cognitive Machine Learning Lab (CML)
 #### Intern, Jun. 2024 - Sep. 2024
 
-### Samsung Device Solutions
+### Samsung Device Solutions, Flash Design Team
 #### Intern, Jul. 2021 - Aug. 2021
 
 <br/>
