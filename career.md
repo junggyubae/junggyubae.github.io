@@ -14,7 +14,7 @@ title: Career
 #### Gyeonggi Science High School for the Gifted
 - High School Diploma, Mar. 2017 - Feb. 2020
 
-
+<br/>
 
 # Research Experience
 
@@ -28,3 +28,5 @@ title: Career
 - Intern, Jul. 2021 - Aug. 2021
 
 <br/>
+
+
