@@ -7,10 +7,12 @@ title: Projects
 
 #### [Reconstructing real world scene and objects with 3DGS and OpenGL](https://junggyubae.github.io/2024-11-11-Scene-Reconstruction/)
 - Graphics Programming Final Project
+
 <img src="/assets/img/3D_shot.png" alt="Image description" width="300">
 
 #### [Digtal Business Class](https://junggyubae.github.io/2024-01-21-Digital-Business-Class/)
-- Seoul National University Social Responsibility in Indonesia 
+- Seoul National University Social Responsibility in Indonesia
+
 <img src="/assets/img/indo2.JPG" alt="Image description" width="300">
 
 <br/>
