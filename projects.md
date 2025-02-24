@@ -6,7 +6,12 @@
 #### [Digtal Business Class](https://junggyubae.github.io/2024-01-21-Digital-Business-Class/)
 - Seoul National University Social Responsibility in Indonesia
 
-
+<p style="display: flex; align-items: center;">
+  <span style="flex: 1;">
+    #### [Digtal Business Class](https://junggyubae.github.io/2024-01-21-Digital-Business-Class/)
+      - Seoul National University Social Responsibility in Indonesia</span>
+  <img src="/assets/image/indo2.JPG" alt="Image description" width="400" height="300">
+</p>
 
 
 # Sub Projects
