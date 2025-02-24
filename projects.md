@@ -25,10 +25,10 @@ title: Projects
 #### Optimizing flash memory performance in high‑tech semiconductor applications by analyzing transistor's physical values
 - Samsung Device Solutions [(certification)](/docs/Samsung_DS.pdf)
 
-#### The Characteristic of the 2 Dimensional Electron Gas based Flexible Hydrogen Sensor manufactured by Atomic Layer Decomposition <a href="/docs/GSHS_thesis.pdf" download>Download PDF</a>
+#### The Characteristic of the 2 Dimensional Electron Gas based Flexible Hydrogen Sensor manufactured by Atomic Layer Decomposition <a href="https://github.com/junggyubae/junggyubae.github.io/blob/master/docs/GSHS_thesis.pdf" download>Download PDF</a>
 - Gyeonggi Science High School Graduation Thesis
 
-#### Applying Physical Forces in Drone Path Planning Algorithm <a href="/docs/GSHS_orp.pdf" download>Download PDF</a>
+#### Applying Physical Forces in Drone Path Planning Algorithm <a href="https://github.com/junggyubae/junggyubae.github.io/blob/master/docs/GSHS_orp.pdf" download>[Download PDF]</a>
 - University of Sydney Overseas Research Program [(certification)](/docs/Sydney.pdf) (advisor: Professor Athman Bouguettaya) 
 
 <br/>
