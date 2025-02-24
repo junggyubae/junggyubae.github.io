@@ -23,12 +23,12 @@ title: Projects
 - SPARCS X SNAAC Ideathon 2nd Place
 
 #### Optimizing flash memory performance in high‑tech semiconductor applications by analyzing transistor's physical values
-- [Samsung Device Solutions](/docs/Samsung_DS.pdf)
+- Samsung Device Solutions [(certification)](/docs/Samsung_DS.pdf)
 
-#### [The Characteristic of the 2 Dimensional Electron Gas based Flexible Hydrogen Sensor manufactured by Atomic Layer Decomposition](/docs/GSHS_thesis.pdf)
+#### The Characteristic of the 2 Dimensional Electron Gas based Flexible Hydrogen Sensor manufactured by Atomic Layer Decomposition <a href="/docs/GSHS_thesis.pdf" download>Download PDF</a>
 - Gyeonggi Science High School Graduation Thesis
 
-#### [Applying Physical Forces in Drone Path Planning Algorithm](/docs/GSHS_orp.pdf)
-- [University of Sydney Overseas Research Program](/docs/Sydney.pdf) (advisor: Professor Athman Bouguettaya) 
+#### Applying Physical Forces in Drone Path Planning Algorithm <a href="/docs/GSHS_orp.pdf" download>Download PDF</a>
+- University of Sydney Overseas Research Program [(certification)](/docs/Sydney.pdf) (advisor: Professor Athman Bouguettaya) 
 
 <br/>
