@@ -1,11 +1,3 @@
----
-layout: page
-title: Projects
----
-
-<br/>
-
-
 # Main Projects
 
 #### [Reconstructing real world scene and objects with 3DGS and OpenGL](https://junggyubae.github.io/2024-11-11-Scene-Reconstruction/)
