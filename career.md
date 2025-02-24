@@ -18,10 +18,10 @@ title: Career
 
 # Research Experience
 
-#### Control and Optimization Research Lab (CORE) 
+#### Control and Optimization Research Lab ([CORE](http://coregroup.snu.ac.kr)) 
 - Intern, Dec. 2024 - Present
 
-#### Cognitive Machine Learning Lab (CML)
+#### Cognitive Machine Learning Lab ([CML](https://cml.snu.ac.kr))
 - Intern, Jun. 2024 - Sep. 2024
 
 #### Samsung Device Solutions, Flash Design Team
