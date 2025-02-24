@@ -10,6 +10,7 @@ title: Career
 
 #### Seoul National University 
 - B.S. in Electrical and Computer Engineering, Mar. 2020 - Present
+- Mandatory Military Service from Sep. 2021 - Mar. 2023 at [USAG Humphreys](https://home.army.mil/humphreys/) as a Signal Information and Electronic Warfare Operation Interpreter
 
 #### Gyeonggi Science High School for the Gifted
 - High School Diploma, Mar. 2017 - Feb. 2020
