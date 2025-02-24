@@ -21,7 +21,7 @@ title: Projects
 - SPARCS X SNAAC Ideathon 2nd Place
 
 #### Optimizing flash memory performance in high‑tech semiconductor applications by analyzing transistor's physical values
-- Samsung Device Solutions <a href="https://drive.google.com/file/d/1DnGhEbBlsTJhAC3G8MKftG_JA1xqZm9i/view?usp=sharing" download>[Certificate]</a>
+- Samsung Device Solutions <a href="https://drive.google.com/file/d/11GI3uu7o4cJ-WkenxHTubHDzakusxLNh/view?usp=sharing" download>[Certificate]</a>
 
 #### The Characteristic of the 2 Dimensional Electron Gas based Flexible Hydrogen Sensor manufactured by Atomic Layer Decomposition <a href="https://drive.google.com/file/d/1sR_xCUWq74pNCce1qWdetUrjWQPuZuLW/view?usp=share_link" download>[PDF]</a>
 - Gyeonggi Science High School Graduation Thesis
