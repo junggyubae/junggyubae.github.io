@@ -11,7 +11,7 @@ title: Junggyu Bae
 
 Hello! I am a junior student of [ECE](https://ece.snu.ac.kr/en) at [Seoul National University](https://en.snu.ac.kr/index.html). I aim to use technology to drive real-world improvements in everyday life.
 
-I am currently researching Optimization for Machine Learning at [CORE Lab](http://coregroup.snu.ac.kr), with a focus on developing efficient algorithms to improve model performance and computational efficiency. My goal is to enhance the scalability and robustness of algorithms in real-world applications. This involves exploring various optimization techniques to boost generalization and accelerate convergence in machine learning models.
+I am currently an intern at [HoDooAI](https://hodooai.com) advised by professor [Jung Woo Lee](https://ece.snu.ac.kr/en/research-faculty/faculty/fulltime?md=view&profid=p057). 
 
 <br/>
 
