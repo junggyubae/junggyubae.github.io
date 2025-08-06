@@ -19,7 +19,7 @@ title: Career
 
 # Research Experience
 
-#### HodooAI ([HodooAI](https://hodooai.com))
+#### [HodooAI](https://hodooai.com)
 - Intern, Aug. 2025 - Present
 
 #### Control and Optimization Research Lab ([CORE](http://coregroup.snu.ac.kr)) 
