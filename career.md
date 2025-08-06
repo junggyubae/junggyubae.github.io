@@ -19,8 +19,11 @@ title: Career
 
 # Research Experience
 
+#### HodooAI ([HoDooAI](https://hodooai.com))
+- Intern, Aug. 2025 - Present
+
 #### Control and Optimization Research Lab ([CORE](http://coregroup.snu.ac.kr)) 
-- Intern, Dec. 2024 - Present
+- Intern, Dec. 2024 - Jul. 2025
 
 #### Cognitive Machine Learning Lab ([CML](https://cml.snu.ac.kr))
 - Intern, Jun. 2024 - Sep. 2024
